@@ -1,6 +1,7 @@
-# Buna ziua
+# Buna ziua  
 Codul echipei CyLiis pt Ultimate Goal 2020-2021
 =======
+
 #Chestii dubioase
 *directory ul ala de OpenCV 
 
