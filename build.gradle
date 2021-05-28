@@ -1,4 +1,4 @@
- /**
+/**
  * Top-level build file for ftc_app project.
  *
  * It is extraordinarily rare that you will ever need to edit this file.
@@ -15,7 +15,7 @@ buildscript {
         jcenter()
     }
     dependencies {
-        classpath 'com.android.tools.build:gradle:4.2.0'
+        classpath 'com.android.tools.build:gradle:4.0.1'
     }
 }
 
@@ -43,7 +43,7 @@ dependencies {
     doc 'org.firstinspires.ftc:FtcCommon:6.2.0'
     doc 'org.firstinspires.ftc:OnBotJava:6.2.0'
     doc 'org.firstinspires.ftc:Inspection:6.2.0'
-    }
+}
 
 task extractJavadoc {
     doLast {
